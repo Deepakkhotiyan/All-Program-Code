@@ -1,1 +1,1 @@
-# AlgoSage: Your Coding Companion 📚
+# All Program Code: Your Coding Companion 📚
